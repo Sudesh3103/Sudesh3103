@@ -61,17 +61,12 @@
 #### 🧑‍💼 Employee Management System  
 🔹 Tech: Spring Boot, React, MySQL, REST API  
 🔹 Features: CRUD, Authentication, Admin Dashboard  
-🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/Employee-Management-System)
+🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/Employee-Management-System-using-CRUD)
 
 #### 🎬 Movie Ticket Booking App  
 🔹 Tech: JSP, Java, JDBC, Bootstrap  
 🔹 Features: Seat Reservation, Payment Integration  
-🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/Movie-Ticket-Booking)
-
-#### 💰 Expense Tracker (React Native)  
-🔹 Tech: React Native, AsyncStorage, Charts  
-🔹 Features: Local Storage, Monthly Analytics  
-🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/ExpenseTrackerApp)
+🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/Movie-Booking-System)
 
 ---
 
