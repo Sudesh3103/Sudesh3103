@@ -14,7 +14,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/Sudesh3103">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+👨‍💻;Java+%7C+Spring+Boot+%7C+Hibernate;React+%7C+React+Native+%7C+Redux;API+Integration+%7C+MySQL+%7C+RESTful+Design;Passionate+about+Building+Real+World+Apps!" />
+    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
   </a>
 </p>
 
