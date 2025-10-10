@@ -58,6 +58,11 @@
 <!-- Project Section -->
 ### 🚀 Featured Projects
 
+#### 🧑‍💼 Ecommerce Website Admin Dashboard  
+🔹 Tech: React, Node.js, MySQL 
+🔹 Features: CRUD, Authentication, Admin Dashboard  
+🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/ShreeKrishnaAdminPanel)
+
 #### 🧑‍💼 Employee Management System  
 🔹 Tech: Spring Boot, React, MySQL, REST API  
 🔹 Features: CRUD, Authentication, Admin Dashboard  
