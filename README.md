@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sudesh Kalokhe</h1>
-<h3 align="center">💻 Full Stack & React JS Developer | Java | Spring Boot | React | MySQL</h3>
+<h3 align="center">💻 Java Full Stack & React JS Developer | Java | Spring Boot | React | MySQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudesh3103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
