@@ -22,7 +22,7 @@
 
 <!-- About Me Section -->
 ### 🌟 About Me  
-🚀 Passionate **Full Stack Developer** with hands-on experience in **Spring Boot, React, and React Native**.  
+🚀 Passionate **Java FullStack Developer** with hands-on knowledge in ** React, Java, Spring and SpringBoot **.  
 💡 I enjoy building responsive web & mobile apps, integrating APIs, and optimizing backend performance.  
 🎯 Currently focusing on **React Native app development** and **Java-based scalable systems**.  
 📚 Always exploring **clean architecture, cloud deployment, and automation testing**.
