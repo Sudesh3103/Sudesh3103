@@ -34,7 +34,6 @@
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -55,38 +54,7 @@
 
 ---
 
-<!-- Project Section -->
-### 🚀 Featured Projects
 
-#### 🧑‍💼 Ecommerce Website Admin Dashboard  
-🔹 Tech: React, Node.js, MySQL 
-🔹 Features: CRUD, Authentication, Admin Dashboard  
-🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/ShreeKrishnaAdminPanel)
-
-#### 🧑‍💼 Employee Management System  
-🔹 Tech: Spring Boot, React, MySQL, REST API  
-🔹 Features: CRUD, Authentication, Admin Dashboard  
-🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/Employee-Management-System-using-CRUD)
-
-#### 🎬 Movie Ticket Booking App  
-🔹 Tech: JSP, Java, JDBC, Bootstrap  
-🔹 Features: Seat Reservation, Payment Integration  
-🔹 [🔗 View on GitHub](https://github.com/Sudesh3103/Movie-Booking-System)
-
----
-
-<!-- GitHub Stats -->
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sudesh3103&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudesh3103&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudesh3103&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 <!-- Activity Graph -->
 ### 🔥 Contribution Graph
