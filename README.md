@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sudesh Kalokhe</h1>
-<h3 align="center">💻 Software Developer & React.js Developer | Node.js | Express.js | React.js | TypeScript | MySQL | MongoDB | GitHub Actions (CI/CD) | Linux | VPS | Java | Spring Boot |</h3>
+<h3 align="center">💻 Software Developer & React.js Developer | React.js | Node.js | Express.js | MongoDB | TypeScript | MySQL | GitHub Actions (CI/CD) | Linux | VPS | Java | Spring Boot </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudesh3103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
