@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Sudesh Kalokhe</h1>
-<h3 align="center">💻 Software Developer & React JS Developer | Node.js | Express.js| React.js | TypeScript | MySQL | MongoDB | GitHub Actions (CI/CD) | Linux | VPS| Java | Spring Boot |</h3>
+<h3 align="center">💻 Software Developer & React.js Developer | Node.js | Express.js | React.js | TypeScript | MySQL | MongoDB | GitHub Actions (CI/CD) | Linux | VPS | Java | Spring Boot |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudesh3103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -43,11 +43,11 @@
 - Tailwind CSS
 
 **Backend**
-- Java
-- Spring Boot
 - Node.js
 - Express.js
 - REST APIs
+- Java
+- Spring Boot
 
 **Database**
 - MySQL
@@ -111,8 +111,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions (CI/CD)](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
