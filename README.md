@@ -63,6 +63,7 @@
 - GitHub Actions (CI/CD)
 - Linux
 - Hostinger VPS
+- Vercel
 
 ## 🎯 Currently Learning
 - React Native
