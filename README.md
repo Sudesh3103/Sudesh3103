@@ -66,7 +66,6 @@
 - Vercel
 
 ## 🎯 Currently Learning
-- React Native
 - AWS Cloud
 - Microservices
 - Docker
